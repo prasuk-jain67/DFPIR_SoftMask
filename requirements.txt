@@ -1,0 +1,12 @@
+torch>=1.8.0
+torchvision
+openai-clip #
+numpy #
+scikit-image #
+scikit-video #
+scipy #
+matplotlib #
+einops #
+huggingface-hub #
+tqdm #
+tensorboard #
